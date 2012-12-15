@@ -4,7 +4,7 @@
 package com.happyfuncode.giantbomb.character;
 
 /**
- * @author Brandon
+ * @author Brandon Vulaj
  *
  */
 public class Character {
