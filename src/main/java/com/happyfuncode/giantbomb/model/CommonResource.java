@@ -9,6 +9,7 @@ import java.util.Date;
  * 
  */
 public abstract class CommonResource {
+	private long id;
 	private Date dateAdded;
 	private Date dateLastUpdated;
 }
